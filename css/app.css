@@ -35,7 +35,7 @@ body {
 }
 
 .nav-section {
-    padding-left: 20px;
+    padding-left: 50px;
     line-height: 50px;
     border-bottom: 1px solid rgba(230, 230, 230, 0.699);
 }
@@ -57,3 +57,65 @@ body {
 }
 
 /* contenuto nav aggiunto */
+
+/* sezione articolo */
+
+.article-section {
+    padding-left: 50px;
+}
+
+.article-section div {
+    margin-top: 25px;
+    color: rgb(68, 68, 68);
+    line-height: 40px;
+}
+
+/* spunte e croci */
+
+.checks {
+    color: green;
+    border: 1px solid green;
+    border-radius: 50%;
+}
+
+.cross {
+    color: red;
+    border: 1px solid red;
+    border-radius: 50%;
+}
+
+/* icone */
+
+.icona {
+    color: white;
+    font-size: 12px;
+    padding: 8px;
+    border-radius: 15px;
+    vertical-align: middle;
+}
+
+/* stili icone */
+
+.editoriale {
+    background-color:rgb(128, 149, 245);
+}
+
+.goals {
+    background-color: rgb(158, 84, 219);
+}
+
+.recruiting {
+    background-color: rgb(21, 189, 153);
+}
+
+.mobile {
+    background-color: rgb(253, 147, 25);
+}
+
+.site {
+    background-color: rgb(255, 29, 142);
+}
+
+.saldi {
+    background-color: rgb(139, 214, 0);
+}
