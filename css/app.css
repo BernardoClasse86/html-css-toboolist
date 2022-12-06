@@ -4,10 +4,15 @@
     padding: 0;
 }
 
+body {
+    background-color: rgba(230, 230, 230, 0.699);
+}
+
 /* logo e titolo */
 
 .logo-title {
     padding-left: 20px;
+    background-color: white;
 }
 
 .title {
@@ -18,3 +23,37 @@
 }
 
 /* logo e titolo aggiunti */
+
+/* contenuto nav */
+
+.main-section {
+    background-color: white;
+    margin: 0 auto;
+    max-width: 900px;
+    margin-top: 40px;
+    border-radius: 8px;
+}
+
+.nav-section {
+    padding-left: 20px;
+    line-height: 50px;
+    border-bottom: 1px solid rgba(230, 230, 230, 0.699);
+}
+
+.nav-section span {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.nav-1 {
+    border: 1px solid rgb(128, 149, 245);
+    background-color: rgb(128, 149, 245);
+    color: white;
+}
+
+.nav-2 {
+    border: 1px solid grey;
+    color: grey;
+}
+
+/* contenuto nav aggiunto */
